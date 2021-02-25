@@ -862,21 +862,43 @@
     
                                 <section class="normal markdown-section">
                                 
-                                <h1 id="alphabot">ALPHABOT</h1>
-<p>Elegimos este robot como una buena opci&#xF3;n para dar a la Raspberry la movilidad y sensores que se espera en un robot. Hay otras alternativas por supuesto, basta con poner las palabras <strong><em>Raspberry</em></strong> y <em><strong>Robot</strong></em> en cualquier buscador.</p>
-<p>Veremos en <a href="ventajas.html">VENTAJAS</a> que sirve tanto para Raspberry y Arduino y tiene una buena dotaci&#xF3;n de sensores, en contra tiene importantes defectos de dise&#xF1;o, esto lo veremos en <a href="desventajas.html">DESVENTAJAS</a>.</p>
+                                <h1 id="rober-marciano-&#xBF;por-qu&#xE9;-la-elecci&#xF3;n-del-robot-comercial-alphabot">ROBER MARCIANO &#xBF;Por qu&#xE9; la elecci&#xF3;n del robot comercial ALPHABOT?</h1>
+<p>Para hacer el rover marciano tenemos unas caracter&#xED;sticas que cumplir y resolver con &#xBF;Arduino? &#xBF;Raspberry? &#xBF;Qu&#xE9; lenguaje? ...</p>
+<ul>
+<li>Control a distancia desde <strong>Internet</strong>:<ul>
+<li>Con <strong>Arduino</strong> resulta complejo tener un control del dispositivo via remoto, es f&#xE1;cil via Bluetooth pero se busca un control totalmente remoto.</li>
+<li>Con <strong>Raspberry</strong> es mucho m&#xE1;s sencillo, el sistema operativo por excelencia es Linux y es un SO pensado para controlar remotamente.</li>
+</ul>
+</li>
+<li>Una <strong>v&#xED;deoc&#xE1;mara</strong> esencial para ver el paisaje marciano que queremos ver:<ul>
+<li>Con Arduino es muy dificil</li>
+<li>Con Raspberry es muy f&#xE1;cil, est&#xE1; preparado para ello y hay software libre que nos da soporte.</li>
+</ul>
+</li>
+<li><strong>Motores, sensores, brazo rob&#xF3;tico ...</strong><ul>
+<li>Con Arduino es f&#xE1;cil</li>
+<li>Con Raspberry tiene:<ul>
+<li>Desventajas, necesitas electr&#xF3;nica entre las GPIO y los sensores o motores, es decir no permite conexiones directas con la Raspberry <a href="https://catedu.github.io/raspberry-muy-basico/2-gpio.html" target="_blank">como ya has visto</a>, luego necesitamos de un kit comercial que nos falicile las cosas.</li>
+<li>Ventajas pues programamos en la misma Raspbery <a href="https://catedu.github.io/raspberry-muy-basico/6-vnc.html" target="_blank">como ya has visto</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Si pones las palabras <strong><em>Raspberry</em></strong> y <em><strong>Robot</strong></em> en cualquier buscador ver&#xE1;s que hay muchas opciones y kits comerciales, elegimos el kit Alphabot para hacer nuestro rover marciando, pues veremos en <a href="ventajas.html">VENTAJAS</a> que sirve tanto para Raspberry y Arduino y tiene una buena dotaci&#xF3;n de sensores, en contra tiene importantes defectos de dise&#xF1;o, esto lo veremos en <a href="desventajas.html">DESVENTAJAS</a> pero con el precio que tiene, no se puede pedir m&#xE1;s.</p>
 <h4 id="&#xBF;qu&#xE9;-incluye-este-robot">&#xBF;Qu&#xE9; incluye este robot?</h4>
 <ul>
 <li><strong>Raspberry PI3+</strong> con la opci&#xF3;n de a&#xF1;adir un Arduino. Puede ir con uno de los dos o ambos. En este curso s&#xF3;lo trabaremos con la Raspberry.</li>
-<li><strong>Dos motores </strong>con el L298P driver (&#xBF;Qu&#xE9; es eso? Pues parecido al L293 <a href="https://catedu.github.io/programa-arduino-mediante-codigo/montaje_con_circuito_l293.html" target="_blank">m&#xED;ralo aqu&#xED;</a>) que proporciona 2A a los motores y tienen diodo de protecci&#xF3;n para manejarlos con seguridad.</li>
+<li><strong>Dos motores</strong> con el L298P driver &#xBF;Qu&#xE9; es eso? Pues parecido al L293 <a href="https://catedu.github.io/programa-arduino-mediante-codigo/montaje_con_circuito_l293.html" target="_blank">m&#xED;ralo aqu&#xED;</a>. Proporciona 2A a los motores y tienen diodo de protecci&#xF3;n para manejarlos con seguridad.</li>
 <li><strong>Dos sensores de IR de proximidad</strong> no tienen tanta precisi&#xF3;n como los sensores de ultrasonidos, pero hacen su funci&#xF3;n para evitar obst&#xE1;culos. Hay posibilidad de a&#xF1;adir un sensor de Ultrasonidos (no incorporado pero lo veremos <a href="45-posibilidad-ultrasonidos.html">aqu&#xED;</a>)</li>
 <li><strong>Sensores de paso</strong> en los motores por lo tanto control de velocidad y de recorrido.</li>
 <li><strong>Control remoto por IR</strong> con su mando, lo que aumenta nuestra posibilidad creativa.</li>
-<li><strong>M&#xF3;dulo con 5 sensores sigue-l&#xED;neas </strong>con un TLC1543 conversor Anal&#xF3;gico Digital que lo veremos detenidamente.</li>
+<li><strong>M&#xF3;dulo con 5 sensores sigue-l&#xED;neas</strong> con un TLC1543 conversor Anal&#xF3;gico Digital que lo veremos detenidamente.</li>
 <li><strong>Brazo rob&#xF3;tico</strong> con dos servos que permiten trabajar did&#xE1;cticamente con este importante elemento.</li>
-<li><strong>C&#xE1;mara web</strong> que a&#xF1;ade una importante gamificaci&#xF3;n al kit, y al trabajar con la Raspberry en vez de con el Arduino, su control v&#xED;a web es f&#xE1;cil.</li>
+<li><strong>C&#xE1;mara web</strong> que a&#xF1;ade una importante gamificaci&#xF3;n al kit, y al trabajar con la Raspberry en vez de con el Arduino, su control v&#xED;a web es f&#xE1;cil, podemos ver nuestro paisaje marciano si tenemos conexi&#xF3;n con el robot.</li>
 </ul>
-<p><img src="assets/apphabot1.png" alt=""></p>
+<p><img src="assets/apphabot1.png" alt="">
+Fondo: Paisaje de Marte tomado por el Curiosity &#xA9; NASA</p>
 <p><div id="page-footer" class="localized-footer"><hr><p><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank"><img alt="Licencia de Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png"></a><br><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Alphabot</span> por <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName"><a href="crditos.html">varios autores</a></span> bajo licencia <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">Creative Commons Reconocimiento-NoComercial-CompartirIgual 4.0 Internacional License</a>.</p>
 </div></p>
 
@@ -922,7 +944,7 @@
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"1 ALPHABOT","level":"1.2","depth":1,"next":{"title":"1.1 Ventajas","level":"1.2.1","depth":2,"path":"ventajas.md","ref":"ventajas.md","articles":[]},"previous":{"title":"Introduccion","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","image-captions","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"alphabot"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/alphabot/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Alphabot","author":"Javier Quintana Peiro","collaborators":[{"name":".","edited":""}],"_pictures":[{"backlink":"muro.html#fig2.2.1","level":"2.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"2.2.1"}]},"language":"es","gitbook":"*"},"file":{"path":"chapter1.md","mtime":"2021-02-25T11:06:53.598Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-25T11:07:41.191Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"1 ALPHABOT","level":"1.2","depth":1,"next":{"title":"1.1 Ventajas","level":"1.2.1","depth":2,"path":"ventajas.md","ref":"ventajas.md","articles":[]},"previous":{"title":"Introduccion","level":"1.1","depth":1,"path":"README.md","ref":"README.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","image-captions","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"alphabot"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/alphabot/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Alphabot","author":"Javier Quintana Peiro","collaborators":[{"name":".","edited":""}],"_pictures":[{"backlink":"muro.html#fig2.2.1","level":"2.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"2.2.1"}]},"language":"es","gitbook":"*"},"file":{"path":"chapter1.md","mtime":"2021-02-25T11:47:42.621Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-02-25T11:48:29.811Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
