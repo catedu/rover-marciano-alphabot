@@ -1,6 +1,6 @@
 # ROBER MARCIANO
 
-##¿qué buscamos?
+##¿Qué buscamos?
 
 Para hacer el rover marciano tenemos unas características que cumplir y resolver con ¿Arduino? ¿Raspberry? ¿Qué lenguaje? ...
 
