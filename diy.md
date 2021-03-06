@@ -1,6 +1,8 @@
 #DIY Do It Yourself
 
-Este robot es delicado y difícil de montar, intentamos  con este manual ayudarte a montarlo si te convence comprarlo pero nosotros no somos comerciales de este robot. O sea, ésto mejor que no:
+Este robot es delicado y difícil de montar, hemos elaborada este pequeña guia de montaje o puedes hacer caso [a la guia oficial que te puedes descargar aquí](https://www.waveshare.com/w/upload/8/80/AlphaBot-Assembly-Diagram.pdf)
+
+Ojo, que quede bien claro que nosotros estamos para ayudarte en tu formación, no somos comerciales de este robot. O sea, ésto mejor que no:
 
 ![](/assets/2018-06-30 07_45_40-Documento1 - Microsoft Word.png)
 

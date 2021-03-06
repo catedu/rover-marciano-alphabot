@@ -1,25 +1,37 @@
-#Ventajas
-###Raspberry, Arduino o ambos
+# Ventajas
+
+## Ventaja 1: Raspberry, Arduino o ambos
 Lo primero que nos gustó es su versatilidad de que sirve tanto para **ARDUINO**, como para la **RASPBERRY**.
 Tiene un regulador LM2596 que proporciona una tensión estable de 5V para las dos placas.
 En la figura puedes ver que simplemente cambiando los jumpers amarillos de lugar decides quien actúa el Arduino o la Rasbperry, incluso los dos a la vez !! puedes hacer que los motores vayan con Arduino y los sensores con Raspberry.
 
 ![](/assets/2018-06-27 20_37_59-PhotoFiltre.jpg)
 ![](/assets/both.png)
-###Opción Arduino
-Para trabajar con el Arduino tiene **un interruptor UART SWITCH** que permite establecer una comunicación serie entre Raspberry y Arduino.
-Para trabajar con el Arduino sólo tiene en la parte trasera dos conectorres:
-* 11=Conexión por UART para poner un módulo Bluetooth por ejemplo un JY-MCU HC-06 ¿Qué es eso? [mira aquí](https://catedu.github.io/programa-arduino-mediante-codigo/mdulo_bluetooth.html)
-* 12=Una interface SPI para conectar un módulo wifi NRF24L01
+
+### Opción Arduino
+
+Para trabajar con el Arduino sólo tiene en la parte trasera dos conectores:
 
 ![](/assets/uart.jpg)
 
-**ATENCIÓN**: En este curso SÓLO VAMOS A TRABAJAR CON LA RASPBERRY por lo tanto no trabajaremos estos puntos específicos para Arduino. (Una de las ventajas de trabajar con la Raspberry es que ya tiene Bluetooth y Wifi integrados).
+* 11=Conexión por **UART** (comunicación universal transmisor/receptor, asíncrono ) para poner un módulo Bluetooth por ejemplo un JY-MCU HC-06 [igual que en el curso Arduino de Aularagón aquí](https://catedu.github.io/programa-arduino-mediante-codigo/mdulo_bluetooth.html) esto posibilita utilizar Alphabot con el móvil o incluso con la [voz](https://catedu.github.io/programa-arduino-mediante-codigo/6235-m8-coche-con-voz.html)
 
-###Al grano: ¿cuanto cuesta?
-Nosotros no somos comerciales, ni intermediarios, sólo somos formadores. Pero para informaros, cuesta aproximadamente unos 100€ se puede conseguir en:
+![](/assets/uart3.jpg)
 
-(ojo, que hay modelos **sin** Raspberry o **con** Raspberry)
+* 12=Una interface SPI para conectar un módulo wifi NRF24L01, no obstante recomendamos para usar wifi usar Raspberry
+
+### Opción Arduino+ RASPBERRY
+
+Tiene **un interruptor UART SWITCH** que permite establecer una comunicación serie entre Raspberry y Arduino, conectando D1 del Arduino con P TX de Raspberry y D0 del Arduino con P RX de RASPBERRY
+
+![](/assets/uart2.jpg)
+
+### Opción sólo Raspberry
+
+**En este curso SÓLO VAMOS A TRABAJAR CON LA RASPBERRY** por lo tanto no trabajaremos con el conector UART pues la Raspberry tiene Bluetooth y Wifi integrados.
+
+## Ventaja 2: Buena relación prestaciones/precio (no calidad/precio)
+Nosotros no somos comerciales, ni intermediarios, sólo somos formadores. Cuesta aproximadamente unos 100€ se puede conseguir en: (ojo, que hay modelos **sin** Raspberry o **con** Raspberry)
 
 * [Aliexpres](https://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20180627103432&SearchText=alphabot)
 * En la web del fabricante [Waveshare](https://www.waveshare.com/product/robotics/mobile-robots/raspberry-pi-robots.htm)
