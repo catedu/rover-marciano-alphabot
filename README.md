@@ -4,7 +4,7 @@ Los Rovers son un buen elemento STEAM para poder usar en el aula [ver propuestas
 
 ![](/assets/apphabot1.png)
 
-Fondo: Paisaje de Marte tomado por el Curiosity © NASA
+Fotomontaje del paisaje de Marte tomado por el Curiosity © NASA
 
 ## Objetivos
 
