@@ -89,6 +89,19 @@ Esta misión está actualmente en curso (6/3/21) su aterizaje fué un éxito :
 
 # Mi opinión
 
-En 1957 empieza la carrera espacial con la Spuknik, las razones de esta absurda carrera son :
+En 1957, con la Sputnik, despega la carrera espacial, que sus causas son :
 
-* Desarrollar los propulsores de misiles intercontinentales.
+* Desarrollar los propulsores de misiles intercontinentales miltares.
+* Espionaje militar espacial con los satélites
+* Políticos: Cada logro espacial significaba vanidad; eres el país más avanzado tecnológicamente.
+
+Los logros de Rusia son indiscutibles, pero se frenaron por las prisas que hicieron el [desastre de Nedelín](https://en.wikipedia.org/wiki/Nedelin_catastrophe) donde murieron grandes cerebros de la ingeniería espacial rusa. (*Recomiendo el libro Grandes desastres tecnológicos
+de Félix Ballesteros Rivas y Koldobica Gotxone Villar*)
+
+USA pudo despegar con ayuda de los antiguos ingenieros nazis. Con [Von Braun](https://es.wikipedia.org/wiki/Wernher_von_Braun) y una NASA con presupuesto ilimitado, USA pudo llegar al final de la loca carrera de llevar un hombre en la luna.
+
+Loca en mi opinión, pues la relación logros/(coste económico y vidas)  de enviar satélites y rovers es muchísimo más alto que enviar humanos. Una vez que se pierde interés, los humanos se reemplazan por robots, vease que después del programa espacial Apolo ya no se ha vuelto a la luna, y que después del desastre de las lanzaderas espaciales han vuelto a los cohetes no tripulados.
+
+Un ejemplo: La estación espacial internacional costó 100.000 millones $, frente al criticado acelerador CERN que costó 1.000 millones con mucho más logros científicos. La estación internacional se está quedando sin experimentos y mantenerlo 300 millones al año. Tener humanos por el espacio es muy caro.
+
+Seguimos queriendo enviar un hombre en Marte, que se convertirá en otra loca carrera de vanidad ¿Cuánto dinero va a costar? ¿Qué logros científicos va a conseguir? en mi opinión, un rover hace mejor ese papel. Volvemos a caer en los errores del pasado.
