@@ -37,3 +37,9 @@ Nosotros no somos comerciales, ni intermediarios, sólo somos formadores. Cuesta
 * En la web del fabricante [Waveshare](https://www.waveshare.com/product/robotics/mobile-robots/raspberry-pi-robots.htm)
 
 ![](/assets/waveshare.png)
+
+## Ventaja 3 Pilas 18650
+
+No son las "normales AA o AAA" pero proporcionan 3.7V y más de 1.000mAh cada una lo que asegura la alimentación del robot+raspberry de forma autónoma, esto es importante si lo vamos a dejar en marte :
+
+![](/assets/marte1.jpg)
