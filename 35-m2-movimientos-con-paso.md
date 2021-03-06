@@ -34,7 +34,7 @@ velL=50
 numL=10
 
 print ('TECLAS ¡en minúscula!:\nPARAR = tecla 5\nADELANTE=FORDWARD = 8\nATRAS=BACKWARD = 2\nDERECHA=RIGHT = 6\nIZQUIERDA=LEFT = 4')
-tecla='x' 
+tecla='x'
 while tecla!='5':
     tecla = input('\nPresiona una tecla y después enter : ')
     if tecla != '5':
@@ -58,4 +58,6 @@ while tecla!='5':
 ```
 %/accordion%
 
+En la vida real, no difiere mucho .... :
 
+ {% youtube %}https://www.youtube.com/watch?time_continue=53&v=e6vzjNkDB5k&feature=emb_logo {% endyoutube %}

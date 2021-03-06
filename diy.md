@@ -285,6 +285,6 @@ Acuérdate de poner bien los jumpers amarillos !!:
 ![](/assets/2018-06-27 20_37_59-PhotoFiltre.jpg)
 
 
-Y fin !!
+Y fin !! ha sido difícil pero piensa que en la realidad cuesta más :
 
-<iframe src="https://giphy.com/embed/3o7TKEP6YngkCKFofC" width="480" height="362" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/tvlandclassic-andy-griffith-the-show-3o7TKEP6YngkCKFofC">via GIPHY</a></p>
+{% youtube %}https://www.youtube.com/watch?v=QnuLxzocuhY&t=45s {% endyoutube %}

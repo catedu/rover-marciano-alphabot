@@ -1,5 +1,11 @@
 # ROVER MARCIANO ALPHABOT RASPBERRY y Python
 
+Los Rovers son un buen elemento STEAM para poder usar en el aula [ver propuestas didácticas de la NASA](https://www.jpl.nasa.gov/edu/teach/tag/type/Classroom+Activity) 🚀. Nuestra propuesta se enmarca dentro de [nuestra hoja de ruta del pensamiento computacional](https://catedu.github.io/robotica/) 🤖.
+
+![](/assets/apphabot1.png)
+
+Fondo: Paisaje de Marte tomado por el Curiosity © NASA
+
 ## Objetivos
 
 * Proporcionar el lado robótico de Rasberry y Python programando en la misma Raspberry.
@@ -17,7 +23,3 @@ Para ello utilizaremos este robot que dota a la Raspberry de chasis, motor y sen
 * Wifi
 * Ordenador
 * Alphabot con raspberry
-
-![](/assets/apphabot1.png)
-
-Fondo: Paisaje de Marte tomado por el Curiosity © NASA
