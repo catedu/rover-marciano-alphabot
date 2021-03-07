@@ -5,13 +5,13 @@
 ## OBJETIVO LUNA
 
 ### Los primeros rovers: Los Lunojods
-[Lunojod1](https://es.wikipedia.org/wiki/Lunojod_1), Rusia lo lanzó en noviembre 1970 y recorrió más de 10km por la luna, con 4 cámaras de TV, telescopio RX, espectómetro... la tapa se abría de día para recargar las batería y por la noche se cerraba para mantener los circuitos calientes con el refuerzo de una pila atómica. A pesar que se perdió su rastro después de 11 días lunares (11 meses terrestres, a pesar de que se diseñó sólo para 3), en 2010 se volvío a localizar y aún se utiliza su reflector.
+[Lunojod1](https://es.wikipedia.org/wiki/Lunojod_1), Rusia lo lanzó en noviembre 1970 y recorrió más de 10km por la luna, con 4 cámaras de TV, telescopio RX, espectómetro... la tapa se abría de día para recargar las batería y por la noche se cerraba para mantener los circuitos calientes con el refuerzo de una pila atómica. A pesar de que se perdió su rastro después de 11 días lunares (11 meses terrestres, a pesar de que se diseñó sólo para 3), en 2010 se volvío a localizar y aún se utiliza su reflector.
 
 ![](/assets/lunojod.jfif)
 
 De [Petar Milošević - Trabajo propio, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=8361136)
 
-En 1973 Rusia lanzó el [Lunjod2](https://es.wikipedia.org/wiki/Lunojod_2), sólo duró 5 meses terrestres, debido a que en su aterrizaje rozó la pared de un crater lunar, lo que provocó que cayera polvo en sus radiadores provocando sobrecalentaientos, pero aún así recorrió 37 km, sólo superado por en el 2018 por la Oportunity.
+En 1973 Rusia lanzó el [Lunjod2](https://es.wikipedia.org/wiki/Lunojod_2), sólo duró 5 meses terrestres, debido a que en su aterrizaje rozó la pared de un crater lunar, lo que provocó que cayera polvo en sus radiadores provocando sobrecalentamientos, pero aún así recorrió 37 km, sólo superado por en el 2018 por la Oportunity.
 
 ![](/assets/cuadro-rovers.png)
 
@@ -25,7 +25,7 @@ Para las misiones Apolo 15, 16 y 17 los astronautas usaron tres [LRVs Lunar Rovi
 
 ### Yutu
 
-China envía dos rovers, el primero en el 2013 duró 31 meses y (diseñado para 3) y el segundo Yutu en el 2018 el único en la cara oculta de la luna y sigue en la actualidad funcionando.
+China envía dos rovers, el primero en el 2013 duró 31 meses y (diseñado para 3) y el segundo Yutu en el 2018, el único en la cara oculta de la luna, sigue en la actualidad funcionando.
 
 ## OBJETIVO MARTE:
 
@@ -39,7 +39,7 @@ Su diseño era muy ingenoso:
 
 ### ¿Tán dificil es aterrizar en marte?
 
-Para la tecnología de la época y **lo dificil que es aterrizar en Marte** fué para quitarse el sombrero, ten en cuenta que de las casi 50 intentos de llegar a Marte, [la mitad han fracasado y sólo 5 han llegado a poner un Rover](https://elpais.com/elpais/2016/10/18/media/1476781825_720003.html).
+Para la tecnología de la época y **lo dificil que es aterrizar en Marte** fué para quitarse el sombrero, ten en cuenta que de casi 50 intentos de llegar a Marte, [la mitad han fracasado y sólo 5 han llegado a poner un Rover](https://elpais.com/elpais/2016/10/18/media/1476781825_720003.html).
 
  {% youtube %}https://www.youtube.com/watch?v=wKzq1vPzJPs&t=253s{% endyoutube %}
 
@@ -71,7 +71,7 @@ Tiene una pila atómica que aún le proporciona energía y a pesar de numerosos 
 
 ### Spirit
 
-En el 2004 Nasa lanza este rover, preparado para perforar rocas y [encontró sal](https://es.wikipedia.org/wiki/Spirit), por lo que es una prueba indirecta de presencia de agua históricamente en Marte. Se diseñó para sobrevivir 3 meses y duró 7 años, y porque una tormenta de arena lo atrapó. Podemos ver una foto real de una tormente de arena:
+En el 2004 Nasa lanza este rover, preparado para perforar rocas y [encontró sal](https://es.wikipedia.org/wiki/Spirit), por lo que es una prueba indirecta de presencia de agua históricamente en Marte. Se diseñó para sobrevivir 3 meses y duró 7 años, y porque una tormenta de arena lo atrapó. Podemos ver una suya foto de una tormente de arena:
 
 ![](/assets/spririt.gif)
 
@@ -87,21 +87,31 @@ Esta misión está actualmente en curso (6/3/21) su aterizaje fué un éxito :
 
  {% youtube %}https://www.youtube.com/watch?v=ZfYzEsxeWvc {% endyoutube %}
 
+ ## No sólo de planetas se alimenta la exploración con rover.
+
+En 2014 ESA manda una sonda espacial [Rosseta ](https://es.wikipedia.org/wiki/Rosetta_(sonda_espacial)) al cometa [67P](https://es.wikipedia.org/wiki/67P/Churyumov-Gerasimenko), orbita alrededor del cometa y desprende la sonda Philae que aterriza en el cometa. Sus resultados desmontaron algunas teorías ampliamente aceptadas, como la creencia de que el agua de la Tierra viene de los cometas, **técnicamente no fue un rover pues no se movía por la superficie**, tiene una superficie muy irregular :
+
+![](/assets/rosetta.gif)
+
+[ESA/Rosetta/MPS for OSIRIS Team MPS/UPD/LAM/IAA/SSO/INTA/UPM/DASP/IDA – CC BY-SA 4.0, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=68566366)
+
+Esto abre las posibilidades de exploración espacial a otros astros, por ejemplo, explorar el satélite Europa y [encontrar vida en su mar interior](https://eltamiz.com/2010/07/07/el-sistema-solar-europa/).
+
 # Mi opinión
 
 En 1957, con la Sputnik, despega la carrera espacial, que sus causas son :
 
-* Desarrollar los propulsores de misiles intercontinentales miltares.
+* Desarrollar los misiles intercontinentales miltares.
 * Espionaje militar espacial con los satélites
 * Políticos: Cada logro espacial significaba vanidad; eres el país más avanzado tecnológicamente.
 
-Los logros de Rusia son indiscutibles, pero se frenaron por las prisas que hicieron el [desastre de Nedelín](https://en.wikipedia.org/wiki/Nedelin_catastrophe) donde murieron grandes cerebros de la ingeniería espacial rusa. (*Recomiendo el libro Grandes desastres tecnológicos
+Los logros de Rusia son indiscutibles, pero las prisas no son buenas, en el [desastre de Nedelín](https://en.wikipedia.org/wiki/Nedelin_catastrophe) murieron grandes cerebros de la ingeniería espacial rusa. (*Recomiendo el libro Grandes desastres tecnológicos
 de Félix Ballesteros Rivas y Koldobica Gotxone Villar*)
 
 USA pudo despegar con ayuda de los antiguos ingenieros nazis (vease [Von Braun](https://es.wikipedia.org/wiki/Wernher_von_Braun) ). Con una NASA con presupuesto ilimitado, USA pudo llegar al final de la loca carrera de llevar un hombre en la luna.
 
 Loca en mi opinión, pues la relación logros/(coste económico y vidas)  de enviar satélites y rovers es muchísimo más alto que enviar humanos. Una vez que se pierde interés, los humanos se reemplazan por robots, vease que después del programa espacial Apolo ya no se ha vuelto a la luna, y que después del desastre de las lanzaderas espaciales han vuelto a los cohetes no tripulados.
 
-Un ejemplo de contradicción: La estación espacial internacional costó 100.000 millones $, frente al criticado acelerador CERN que costó 1.000 millones con mucho más logros científicos. La estación internacional se está quedando sin experimentos y mantenerlo 300 millones al año. Tener humanos por el espacio es muy caro.
+Un ejemplo de contradicción: La estación espacial internacional ha costado 100.000 millones $, frente al criticado acelerador CERN que ha costado 1.000 millones con mucho más logros científicos. La estación internacional se está quedando sin experimentos y mantenerlo cuesta 300 millones al año. Tener humanos por el espacio es muy caro.
 
-Seguimos queriendo enviar un hombre en Marte, que se convertirá en otra loca carrera de vanidad ¿Cuánto dinero va a costar? ¿Qué logros científicos va a conseguir?. En mi opinión, un rover hace mejor ese papel. Volvemos a caer en los errores del pasado.
+Seguimos queriendo enviar un hombre en Marte, que se convertirá en otra loca carrera de vanidad ¿Cuánto dinero va a costar? ¿Qué logros científicos va a conseguir diferentes o mejores que los que hace un rover?. Volvemos a caer en los errores del pasado.
