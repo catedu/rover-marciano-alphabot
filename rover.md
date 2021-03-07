@@ -87,9 +87,9 @@ Esta misión está actualmente en curso (6/3/21) su aterizaje fué un éxito :
 
  {% youtube %}https://www.youtube.com/watch?v=ZfYzEsxeWvc {% endyoutube %}
 
- ## No sólo de planetas se alimenta la exploración con rover.
+ ## El futuro: exploración de astros.
 
-En 2014 ESA manda una sonda espacial [Rosseta ](https://es.wikipedia.org/wiki/Rosetta_(sonda_espacial)) al cometa [67P](https://es.wikipedia.org/wiki/67P/Churyumov-Gerasimenko), orbita alrededor del cometa y desprende la sonda Philae que aterriza en el cometa. Sus resultados desmontaron algunas teorías ampliamente aceptadas, como la creencia de que el agua de la Tierra viene de los cometas, **técnicamente no fue un rover pues no se movía por la superficie**, tiene una superficie muy irregular :
+En 2014 ESA manda una sonda espacial [Rosseta ](https://es.wikipedia.org/wiki/Rosetta_(sonda_espacial) ) al cometa [67P](https://es.wikipedia.org/wiki/67P/Churyumov-Gerasimenko), orbita alrededor del cometa y desprende la sonda Philae que aterriza en el cometa. Sus resultados desmontaron algunas teorías ampliamente aceptadas, como la creencia de que el agua de la Tierra viene de los cometas, **técnicamente no fue un rover pues no se movía por la superficie**, no me extraña, si parece el Everest :
 
 ![](/assets/rosetta.gif)
 
