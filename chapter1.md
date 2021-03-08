@@ -2,7 +2,7 @@
 
 ##¿Qué buscamos?
 
-Para hacer el rover marciano tenemos unas características que cumplir y resolver con ¿Arduino? ¿Raspberry? ¿Qué lenguaje? ...
+Para hacer el rover marciano tenemos unas características que cumplir y resolver con ¿Arduino? ¿Raspberry? ...
 
 * Control a distancia desde **Internet**:
   * Con **Arduino** resulta complejo tener un control del dispositivo via remoto, es fácil via Bluetooth pero se busca un control totalmente remoto.

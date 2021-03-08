@@ -3,7 +3,7 @@ Es importante que las conozcas:
 
 ## Primera desventaja: CUIDADO CON LAS PILAS 18650
 
-* Se pueden encontrar en tiendas online con cargador incluido. (ojo,hay dos versiones, elegir la de 65mm) pero hay que tener precauciones.
+No son tan peligrosa como las pilas de Plutonio-238, pero tienen sus peligros. Se pueden encontrar en tiendas online con cargador incluido. (ojo,hay dos versiones, elegir la de 65mm) pero hay que tener precauciones.
 
  * No te fies de las muy baratas, pues hay algunas que **[son falsas.](http://bateriasdelitio.net/?p=130)**.
   * **OJO ESTAS PILAS SON PELIGROSAS SI SE CORTOCIRCUITAN O NO SE RESPETA LA POLARIDAD, PUEDEN LLEGAR INCLUSO A EXPLOTAR**. Y para complicarlo, no se ve bien (los símbolos + y - de las 18650 soy muy pequeños) y en Alphabot hay una contradicción, los símbolos de fuera en la placa no coinciden con los símbolos de dentro grabados en el portapilas ¿cuales son los verdaderos?: Los de fuera. Para que quede claro aquí tienes un dibujo:
@@ -40,16 +40,20 @@ Y por supuesto levantar el robot para que no salga disparado conectado con el ca
 
 ![](/assets/IMG_20180628_093005864.jpg)
 
-* Como hemos visto anteriormente, no se puede acceder a la alimentación por USB con la tapa inferior luego tenemos dos opciones:
- * Alimentar Alphabot con las pilas. (única opción cuando está en movimiento).
- * Desmontar la tapa inferior y alimentarlo por USB. Si elegimos esta opción hay que dejar las ruedas en alto para que los motores trabajen en vacío.
-
 * Otro defecto es **la colocación del siguelíneas atrás del sentido de la marcha**, esto lo veremos en [el capítulo correspondiente](/6-modulo-siguelineas/65-m2-siguelineas.md) y lo solucionaremos haciendo que vaya hacia atrás, pero claro, la cámara enfoca a la parte trasera y pierde su gracia.
-
-![](/assets/meme1.png)
 
 ## Cuarta desventaja: La documentación en Internet no es muy amplia y buena.
 
 * Al menos hay una wiki más o menos útil: https://www.waveshare.com/wiki/AlphaBot pero no encontramos ejemplos de uso en la red
 
 ![](/assets/wikialphabot.png)
+
+## En resumen
+
+Las desventajas de diseño se sufren en el momento de montarlo y las baterías hay que tener cuidado con respetar la polaridad, pero la desventaja más importante es como hemos visto anteriormente, **no se puede acceder a la alimentación por USB con la tapa inferior montada ** luego tenemos dos opciones:
+ * Alimentar Alphabot con las pilas. (única opción cuando está en movimiento).
+ * Desmontar la tapa inferior y alimentarlo por USB. Si elegimos esta opción hay que dejar las ruedas en alto para que los motores trabajen en vacío.
+
+Como el método de trabajo es programar (quitar tapa, pues las baterías no duran todo el rato que se está en la programación) y probar (poner tapa pues está en movimiento) este kit puede resultar...
+
+![](/assets/meme1.png)
