@@ -1,4 +1,12 @@
-#Módulo siguelíneas
+# Módulo siguelíneas
+
+Esta claro que un rover de verdad no va a tener que seguir una línea pintada en el suelo. Pero, las sondas que lo transportan a los astros, sí que tiene que seguir  unas órbitas o líneas imaginarias. Nosotros lo vamos a simular con una línea pintada en el suelo.
+
+La programación básica es la misma siempre: si te desvías, corrige.
+
+![](/assets/orbita.gif)
+
+Nuestro robot tiene un módulo con 5 sensores al color :
 
 ![](/assets/siguelineas.jpg)
 
