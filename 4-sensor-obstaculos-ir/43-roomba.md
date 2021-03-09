@@ -2,7 +2,10 @@
 
 Bueno ahora hay que hacer el típico programa que evite los obstáculos. Ya sabes detectar los obstáculos, ya sabes controlar el movimiento ¿a qué esperas?
 
-<iframe src="https://giphy.com/embed/kviKlWqjoBdCw" width="480" height="319" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adventure-roomba-kviKlWqjoBdCw">via GIPHY</a></p>
+![](/assets/rover.gif)
+
+[Space Science Animation by European Space Agency ESA](https://www.pinterest.es/pin/490188740691582716/)
+
 
 {% youtube %}https://www.youtube.com/watch?v=5LvBqHv1wM4&feature=youtu.be{% endyoutube %}
 
@@ -36,10 +39,6 @@ while True:
     if (not(sensorR) and (sensorL)):
         MOVIMIENTOSPASO.BOTH(50,-5,50,-5)
         MOVIMIENTOSPASO.BOTH(40,5,40,-5)    
-        
+
 ```
 %/accordion%
-    
-    
-    
-
