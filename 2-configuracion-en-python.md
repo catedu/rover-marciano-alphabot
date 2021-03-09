@@ -1,6 +1,10 @@
-#Conexión
+# Ruedas
 
-Evidentemente los sensores, motores, etc... estarán conectados de alguna manera a algún pin de la GPIO (¿qué es eso de GPIO? Pues eso es que no te has leido [esto](https://catedu.github.io/raspberry-muy-basico/2-gpio.html)).
+Vamos a empezar por la parte importante de un rover:
+
+![](/assets/ruedas.gif)
+
+Los motores estan gobernados con los siguientes GPIO
 
 | Interfaces | Puertos GPIO de la Raspberry Pi |
 |------------|--------------|
