@@ -1,5 +1,12 @@
 #Test brazo robotico
-Vamos a realizar una función que controle con el teclado el brazo robótico:
+Vamos a realizar una función que controle con el teclado el brazo robótico, si le pusieramos un diodo laser, podriamos incluso imitar al vaporizador que esta montado en la Perserverante:
+
+![](/assets/curiosity-laser.gif)
+
+NASA's Mars Curiosity rover landed on Mars in 2012. NASA/JPL-Caltech
+
+De momento nos vamos a conformar con hacer esto :
+
 * Teclas 8 y 2 mueven el brazo robot en el eje x arriba y abajo
 * Teclas 4 y 6 mueven el brazo robot en el eje z derecha e izquierda.
 
@@ -43,4 +50,3 @@ while True:
         anguloz=anguloz-incremento
 ```
 %/accordion%
-

@@ -1,6 +1,12 @@
 #M1 Mi primer baile
 
-Vamos a realizar un sencillo programa para romper el hielo, unos movimientos delante, atrás, derecha, izquierda y paro utilizando la librería anterior:
+Vamos a realizar un sencillo programa para romper el hielo, vamos a imitar los movimientos de la Sojourner
+
+![](/assets/sojourner.gif)
+
+*[Crédito de imagen: Proyecto Mars Pathfinder](https://spaceplace.nasa.gov/mars-sojourner/sp/)*
+
+Unos movimientos delante, atrás, derecha, izquierda y paro utilizando la librería anterior:
 
 {% youtube %}https://www.youtube.com/watch?v=WAycuDaKB0Q{% endyoutube%}
 
@@ -33,5 +39,3 @@ time.sleep(1)
 MOVIMIENTOS.STOP()
 ```
 %/accordion%
-
-
