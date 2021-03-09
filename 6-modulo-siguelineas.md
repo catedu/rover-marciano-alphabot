@@ -6,6 +6,8 @@ La programación básica es la misma siempre: si te desvías, corrige.
 
 ![](/assets/orbita.gif)
 
+[Philae rover's orbit in comet 67P](https://www.popularmechanics.com/space/g2874/nasa-giphy-page/)
+
 Nuestro robot tiene un módulo con 5 sensores al color :
 
 ![](/assets/siguelineas.jpg)
