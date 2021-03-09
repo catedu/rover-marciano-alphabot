@@ -43,7 +43,7 @@ Si vamos a poner una frecuencia de 500Hz y una velocidad media, el código que t
 PWMA = GPIO.PWM(ENA,500);PWMB = GPIO.PWM(ENB,500)
 PWMA.start(50);PWMB.start(50)
 ```
-###Bueno, pero ... ¿cómo son las conexiones?
+###Bueno, pero ... ¿Cómo son las conexiones?
 En el AlphaBot están conectados los pines IN1 IN2 IN3 IN4 ENA ENB en los pines de un chip L298P que hace de driver a los motores (nunca conectes un motor a un GPIO de la Raspberry[ ya lo sabes](https://catedu.github.io/raspberry-muy-basico/2-gpio.html))
 ![](/assets/2018-06-28 16_07_34-AlphaBot-User-Manual - PDF-XChange Viewer.png)
 ##Vale... ¿Y cómo se utiliza?
@@ -61,8 +61,3 @@ def RIGHT():
 def STOP():
     GPIO.output(IN1,GPIO.LOW);GPIO.output(IN2,GPIO.LOW);GPIO.output(IN3,GPIO.LOW);GPIO.output(IN4,GPIO.LOW)
 ```
-
-
-
-
-
