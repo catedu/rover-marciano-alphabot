@@ -4,6 +4,8 @@ Vamos a empezar por la parte importante de un rover:
 
 ![](/assets/ruedas.gif)
 
+[NASA/JPL-Caltech](https://mars.nasa.gov/resources/25691/perseverance-wiggles-a-wheel/)
+
 Los motores estan gobernados con los siguientes GPIO
 
 | Interfaces | Puertos GPIO de la Raspberry Pi |
