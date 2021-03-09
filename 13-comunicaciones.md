@@ -20,7 +20,7 @@ Vía [VNC de forma gráfica](https://catedu.github.io/raspberry-muy-basico/8-vnc
 
 El curso se puede hacer perfectamente desde **LA RED LOCAL** accediendo a la Raspberry por una IP fija tal y como hemos explicado en los enlaces del principio de esta misma página.
 
-Pero es educativo aprender a usar este rover totalmente a distancia desde Internet, simplemente sustituyendo la IP de la Raspberry por la dirección que nos proporciona Remote.it [siguiendo estos pasos](https://catedu.github.io/raspberry-muy-basico/11-conectando-desde-internet.html) por lo tanto es recomendable descargar ya el sistema operativo con los comandos de Remote.it ya preinstalados.
+Pero es educativo aprender a usar este rover totalmente a distancia desde Internet, simplemente sustituyendo la IP de la Raspberry por la dirección que nos proporciona Remote.it [siguiendo estos pasos](https://catedu.github.io/raspberry-muy-basico/11-conectando-desde-internet.html) por lo tanto es recomendable instalar de antemano el sistema operativo con los comandos de Remote.it ya preinstalados.
 
 O sea: ¿Puedo manejar mi Alphabot en Marte si ponen Internet? Si. No es ciencia ficción, hay un plan para [poner Internet en la luna en 2024](https://retina.elpais.com/retina/2020/10/20/innovacion/1603209140_262809.html).
 

@@ -30,5 +30,4 @@ p = GPIO.PWM(12, 0.5)
 p.start(50)
 
 ```
-
-
+Tampoco lo hagas en nuestro rover, pues en 12 está IN1 que controla los motores y ya veremos cómo se usa eso dentro de poco.

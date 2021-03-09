@@ -1,7 +1,7 @@
 #Vaya programación cutre
 Si eres un programador, te recomiendo que no sigas el curso, yo no soy un experto y seguro que estoy cometiendo muchos errores.
 
-Hay dos formas de programar: sencilla pero no profesional y profesional pero no sencilla,igual que los coches, si funcionan bien, los dos llegan al destino.
+Hay dos formas de programar: sencilla pero no profesional y profesional pero no sencilla, pero, al igual que los coches, si funcionan bien, los dos llegan al destino.
 
 ![](/assets/old-new-car.png)
 
