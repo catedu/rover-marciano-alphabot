@@ -10,7 +10,7 @@ Ojo, que quede bien claro que nosotros estamos para ayudarte en tu formación, n
 
 Pero te queremos animar:
 
-<iframe src="https://giphy.com/embed/xjUGCnG53aCBbfokdS" width="480" height="337" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/maker-gallina-xjUGCnG53aCBbfokdS">via GIPHY</a></p>
+![](/assets/gallina.gif)
 
 ##Nomenclatura:
 * Parte delantera: La que tiene la cámara.
