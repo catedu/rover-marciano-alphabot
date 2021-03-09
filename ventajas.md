@@ -60,10 +60,14 @@ Pues.... atómicas, aquí vemos la cápsula de Plutonio-238 de 4.5Kg (el Pu-239 
 
 Porque generan calor.
 
-Los rovers lunares usan paneles solares, pero como la luna carece de atmósfera, las noches lunares son gélidas para la electrónica y necesitan de estas pilas.
-
-Los rovers marcianos ese problema no es tan grave, no hay tanta diferencia de temperatura pues Marte tiene atmósfera, al principio usaban paneles solares, pero las tormentas de arena hacen malas jugadas llenándolos de polvo (ya vistes lo que le ha pasado a la Spirit) por lo tanto ahora usan estas pilas atómicas.
+En los rovers **marcianos**, al principio usaban paneles solares, pero las tormentas de arena hacen malas jugadas llenándolos de polvo (ya vistes lo que le ha pasado a la Spirit) por lo tanto ahora usan estas pilas atómicas.
 
 Utilizan la diferencia de temperatura entre este bloque radiactivo y el medio para generar electricidad con un fenómeno que se llama **[Termopila](https://es.wikipedia.org/wiki/Termopila)** donde una soldadura de cobre y hierro a diferente temperatura genera electricidad. En la Curiosity proporciona 2.5kWh/dia frente a los 0.58 kWh de los paneles solares de las Mars. A medidad que se va descomponiendo el Plutonio pierde potencia, pero eso será dentro de 14 años que proporcionará 0.1kWh.
 
 La sonda Cassini, La Galileo, New Horizons... también usan este tipo de pilas, incluso las Voyager que siguen vivas desde 1977.
+
+Los rovers lunares usan paneles solares, pero como la luna carece de atmósfera, las noches lunares son gélidas para la electrónica y necesitan de estas pilas atómicas pero para generar calor.
+
+![](/assets/yutu.gif)
+
+[Animated gif of the Yutu rover driving on to the lunar surface. Image: CCTV](https://blog.csiro.au/yutu-jade-rabbit-rover-on-the-moon/)
