@@ -1,6 +1,12 @@
 #Movimientos con paso y teclas
 
-Vamos a hacer un programa para utilizar la librería anterior MOVIMIENTOSPASO.py y gobernado por el teclado *numérico*:
+Vamos a hacer un programa que simulemos el gobierno real de un rover:
+
+ {% youtube %}https://www.youtube.com/watch?time_continue=53&v=e6vzjNkDB5k&feature=emb_logo {% endyoutube %}
+
+No va a ser tan profesional pero es un primer paso para ver la complejidad de su programación.
+
+El programa utilizará la librería anterior MOVIMIENTOSPASO.py y gobernado con el teclado *numérico*:
 
 * PARAR = tecla 5
 * ADELANTE=FORDWARD = 8
@@ -57,7 +63,3 @@ while tecla!='5':
         MOVIMIENTOS.STOP()
 ```
 %/accordion%
-
-En la vida real, no difiere mucho .... :
-
- {% youtube %}https://www.youtube.com/watch?time_continue=53&v=e6vzjNkDB5k&feature=emb_logo {% endyoutube %}
