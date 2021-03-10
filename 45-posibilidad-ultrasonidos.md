@@ -32,7 +32,7 @@ Otra opción es quitar la cámara y poner el sensor de ultrasonidos:
 
 ![](/assets/brazous.png)
 
-EL KIT DE CATEDU NO PROPORCIONA EL SENSOR ULTRASONIDOS
+# EL KIT DE CATEDU NO PROPORCIONA EL SENSOR ULTRASONIDOS
 
 ### Bueno, si aún así me decido ponerlo ¿cómo se programa?
 
@@ -67,6 +67,3 @@ def Distance():
     t2 = time.time()
     return (t2-t1)*34000/2
 ```
-
-
-

@@ -1,6 +1,6 @@
-#Roomba o sea "Evita obstáculos"
+# Evita obstáculos
 
-Bueno ahora hay que hacer el típico programa que evite los obstáculos. Ya sabes detectar los obstáculos, ya sabes controlar el movimiento ¿a qué esperas?
+Bueno ahora hay que hacer el típico programa que evite los obstáculos para que nuestro rover sea autónomo ¿a qué esperas? tiene ganas de salir ya solito, ya es mayor !
 
 ![](/assets/rover.gif)
 
@@ -42,3 +42,7 @@ while True:
 
 ```
 %/accordion%
+
+Ahora ya nuestro rover puede salir libre :
+
+![](/assets/curiosity3.gif)
