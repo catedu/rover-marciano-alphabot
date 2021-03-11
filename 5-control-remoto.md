@@ -2,7 +2,7 @@
 
 ![](/assets/IRcontrolremote.jpg)
 
-Los rovers evidentemente no se pueden gobernar con un mando a distancia, pero sí que se gobiernan con señales de radio. Vamos a simular estas señales de radio con el mando de infrarrojos.
+Los rovers evidentemente no se pueden gobernar con un mando a distancia, pero sí que se gobiernan con señales de radio. Vamos a simular estas órdenes de radio con el mando de infrarrojos.
 
 ![](/assets/yutu2.gif)
 
