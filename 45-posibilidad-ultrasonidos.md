@@ -20,7 +20,7 @@ El sensor de ultrasonidos tiene que estar adaptado a los cables compatibles con 
 
 ![](https://statics3.seeedstudio.com/seeed/img/2016-09/kIyY21sbC6ct7JYzCWf1mAPs.jpg)
 
-CHAPUZA : No tiene su [orden standard GND-Vcc-DATA1-DATA2](http://wiki.seeedstudio.com/Grove_System/) sino es GND-DATA1-DATA2-VCC o sea GND-Trg-Echo-5V luego habría que hacer alguna chapucilla de intercambiar cables, habría que elegir unos cables largos, cortarlos e intercambiarlos:
+CHAPUZA : No tiene su [orden standard GND-Vcc-DATA1-DATA2](http://wiki.seeedstudio.com/Grove_System/) sino es GND-DATA1-DATA2-VCC o sea GND-Trg-Echo-5V luego habría que hacer alguna chapucilla de intercambiar cables, habría que elegir unos cables largos, cortarlos e intercambiarlos o poner cables Dupon H-H y conectar cada cable en su lugar correspondiente:
 
 ![](https://statics3.seeedstudio.com/seeed/file/2018-02/bazaar707576_img_5936a.JPG)
 
@@ -66,4 +66,3 @@ def Distance():
         pass
     t2 = time.time()
     return (t2-t1)*34000/2
-```

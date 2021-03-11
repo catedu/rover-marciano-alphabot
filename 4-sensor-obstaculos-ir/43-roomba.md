@@ -43,6 +43,6 @@ while True:
 ```
 %/accordion%
 
-Ahora ya nuestro rover puede salir libre :
+Ahora ya nuestro rover puede salir libre a recoger piedrecitas ! :
 
 ![](/assets/curiosity3.gif)
