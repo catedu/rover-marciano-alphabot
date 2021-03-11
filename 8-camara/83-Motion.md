@@ -1,3 +1,10 @@
+Vamos a ver lo que sale por la cámara de forma remota :
+
+![](/assets/remoteit3.jpg)
+![](/assets/camera.gif)
+
+[Imagen de Gifer](https://gifer.com/en/Cfg)
+
 # MOTION
 
 Esta librería open-source muy utilizado en sistemas de alarma con la Raspberry
@@ -9,15 +16,16 @@ Se pueden encontrar proyectos interesantes como :
 * [Que grabe en un vídeo cuando detecta un movimiento](https://projects.raspberrypi.org/en/projects/parent-detector)
 * [Que nos envíe un email con una foto cuando detecta uno movimiento](https://www.instructables.com/Raspberry-Pi-Motion-Detector-and-Alert-System/)
 
-![](https://projects-static.raspberrypi.org/projects/parent-detector/97801ad05b15780b97e6fb975026710155e616e4/en/images/banner.png)
+![](/assets/parent.png)
+[Parent detector](https://projects.raspberrypi.org/en/projects/parent-detector)
 
-Pero nosotros NO nos interesa que detecte movimiento, sino que simplemente haga streaming.
+Pero nosotros **NO** nos interesa que detecte movimiento, sino que simplemente haga streaming.
 
 Para esto, simplemente modificaremos el fichero de configuración de la librería **motion.conf**. Es muy típico modificar ficheros de configuración tipo texto en los softwares abiertos, lo que muestra su versatilidad y potencialidad. Puedes ver las diferentes posibilidades de configuración de Motion [aquí](https://motion-project.github.io/motion_config.html)
 
 ## Cómo hacerlo
 
-Abrimos una ventana de comandos, en SSH, [ya sabes cómo](https://catedu.github.io/raspberry-muy-basico/5-ssh.html) y ejecutamos estas órdenes:
+Abrimos una ventana de comandos, en SSH, [ya sabes cómo](https://catedu.github.io/raspberry-muy-basico/5-ssh.html) o en el mismo VNC de forma gráfica abre la ventana de comandos, y ejecutamos estas órdenes:
 
 Instalamos MOTION :
 
@@ -49,7 +57,7 @@ Finalmente ejecutamos motion con esta orden
 Si queremos que se ejecute de forma automática cuando arranque la raspberrypi editamos el fichero /etc/rc.local y al final le ponemos esa instrucción. Es decir
 
 **sudo nano /etc/rc.local**
-y añadimos sudo motion al final (he puesto un comentario My script optativo)
+y añadimos sudo motion al final (he puesto un comentario mi script optativo)
 
 ![](/assets/arranquemotion.jpg)
 
@@ -86,6 +94,7 @@ Y automáticamente nos abre el navegador con la webcam funcionando
 
 ![](/assets/remoteit3.jpg)
 ![](/assets/camera.gif)
+
 [Imagen de Gifer](https://gifer.com/en/Cfg)
 
 ### Vale, pero .. ¿y cómo se quita un servicio de Remoteit?

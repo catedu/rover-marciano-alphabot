@@ -134,7 +134,7 @@ Esa mala suerte no lo tuvieron **los hermanos Wright** que en 1903 volaron su pr
 
 _[Gregg Bryant saved to Aircraft-Vintage Pinterest](https://www.pinterest.es/pin/39899146670679462/)_
 
-Pero... pusieron **el timón delante**, no como **[Diego Marín Aquilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)** que observaba bien las aves. Esto provocaba también una **realimentación positiva** (al levantar el timón, levantaba el morro, y esto provocaba que se levantase aún más, y viceversa a la hora de bajarlo).
+Pero... pusieron **el timón delante**, no como **[Diego Marín Aquilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)** que observaba bien las aves. Esto provocaba una **realimentación positiva** (al levantar el timón, levantaba el morro, y esto provocaba que se levantase aún más, y viceversa a la hora de bajarlo).
 Los hermanos Wright patentaron su invento y gastaron todo su dinero en abogados para defender que nadie copiase su control, pero la verdad es que ... que nadie lo hizo.
 
 La industria de la aviación detectó el fallo y los elementos de control van por detrás del ala principal, esto crea una realimentación negativa, por lo tanto mayor estabilidad en el vuelo y ... la ruina de los hermanos Wright.
@@ -145,4 +145,4 @@ La industria de la aviación detectó el fallo y los elementos de control van po
 
 ![](/assets/saab.jpg)
 
-[Editado de De Ernst Vikne - originally posted to Flickr as JAS Gripen, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=8602843)
+*[Editado de De Ernst Vikne - originally posted to Flickr as JAS Gripen, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=8602843)*

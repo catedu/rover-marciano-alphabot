@@ -16,7 +16,9 @@ GPIO.setup\(SERVOEJEZ, GPIO.OUT, initial=GPIO.LOW\)
 
 # BRAZO.py
 
-Realmente el control de un servo se hace con una modulación PWM que ya hemos visto. La función que modula la señal PWM es ChangeDutyCycle y se le da el argumento en % entre 0 y 100. Si queremos 180º necesitamos un pulso de 2.5ms por lo que en 20ms corresponde a 12.5% por lo tanto la fórmula es % = 2.5+10\*\(angulo/180\):
+Realmente el control de un servo se hace con una modulación PWM que ya hemos visto. La función que modula la señal PWM es ChangeDutyCycle y se le da el argumento en % entre 0 y 100. Si queremos 180º necesitamos un pulso de 2.5ms por lo que en 20ms corresponde a 12.5% por lo tanto la fórmula es % = 2.5+10\*\(angulo/180\).
+
+Esta función simplemente le indicamos el ángulo y otro argumento, si es 1 es el eje x y si es 0 es el eje z :
 
 ```cpp+lineNumbers:true
 import RPi.GPIO as GPIO
@@ -37,4 +39,3 @@ def ANGULO(angle,x):
 ```
 
 >Nota: Los servos tiemblan algo, es normal, no pienses que un robot barato esté bien calibrado.
-

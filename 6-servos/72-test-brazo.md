@@ -1,9 +1,9 @@
 #Test brazo robotico
-Vamos a realizar una función que controle con el teclado el brazo robótico, si le pusieramos un diodo laser, podriamos incluso imitar al vaporizador que esta montado en la Perserverante:
+Vamos a realizar una función que controle con el teclado el brazo robótico, si le pusieramos [un diodo laser](https://www.amazon.es/WPERSUVV-m%C3%B3dulos-creaci%C3%B3n-prototipos-Raspberry/dp/B07RM3RWSF/ref=sr_1_1_sspa?dchild=1&keywords=laser+diodo+arduino&qid=1615466315&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFUWVVaMUQ3WldCSDQmZW5jcnlwdGVkSWQ9QTAzMTIzNTlVNDRRNlE2Wk1OQjQmZW5jcnlwdGVkQWRJZD1BMDIyMjI4NDJEWEtWSFpMWDRPS1gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl), podriamos incluso imitar al vaporizador que esta montado en la Perserverante:
 
 ![](/assets/curiosity-laser.gif)
 
-NASA's Mars Curiosity rover landed on Mars in 2012. NASA/JPL-Caltech
+[NASA's Mars Curiosity rover landed on Mars in 2012. NASA/JPL-Caltech](https://mars.nasa.gov/msl/home/)
 
 De momento nos vamos a conformar con hacer esto :
 
