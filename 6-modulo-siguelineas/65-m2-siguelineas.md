@@ -11,7 +11,7 @@ Fijaremos de antemano una velocidad pequeña de 25% y un incremento de velocidad
 ###Solución
 La solución es fácil con la librería TLC1543.py donde la función **SENSORLINEA(cual)** nos da el valor que lee los sensores IR. Recuerda que TLC1543.py en la misma carpeta que vamos a crear este programa y las incorporamos en el programa con **import**.
 * También incorporamos las variables definidas en **VARIABLES.py**
- 
+
 ¿Te atreves?
 
 %accordion%Solución%accordion%
@@ -52,7 +52,7 @@ while True:
         x[i]=TLC1543.SENSORLINEA(i)
         if (x[i]<blanco):
             lineanegra=1
-    #Decidimos velocidades 
+    #Decidimos velocidades
     if (lineanegra):  ##ha encontrado línea negra
         ##hacia DELANTE        
         GPIO.output(IN1,GPIO.LOW)
@@ -69,7 +69,7 @@ while True:
             velB=velB+incremento    
         if (x[0]<blanco):
             velA=velA+incremento
-            velB=velB-incremento 
+            velB=velB-incremento
         if (x[4]<blanco):
             velA=velA-incremento
             velB=velB+incremento
@@ -102,33 +102,47 @@ while True:
                 x[i]=TLC1543.SENSORLINEA(i)
                 if (x[i]<blanco):
                     lineanegra=1        
-         
-           
-    
-   
-    
+
+
+
+
+
 ```
 %/accordion%
 
-#¿Por qué en este ejercicio ALPHABOT va al revés?
+# ¿Por qué en este ejercicio ALPHABOT va al revés?
 Por que los sensores siguelineas por la parte de atrás del sentido de la marcha **PRODUCE UNA REALIMENTACIÓN POSITIVA** es decir, cuando detecta que hay que girar, gira, pero la cola se mueve demasiado deprisa que produce que pierda la línea. Controlarlo **es posible pero es difícil** [la demo de Alphabot ](https://www.waveshare.com/wiki/AlphaBot)lleva el software para hacerlo.
 
-###No seas cobarde!! Pruébalo.
-* Cambia el código anterior las marchas es decir los GPIO.output los HIGH por LOW y viceversa
+### 🐓🐓 No seas gallina !! 🐓🐓 Pruébalo.
+* Cambia el código anterior las marchas es decir los GPIO.output de los motores, pon los HIGH por LOW y viceversa
 * Y también el control de giro, es decir en vez de +incremento pon -incremento y viceversa
-* ¿Funciona?
+* ¿Funciona? ¡¡se vuelve loco !!!
 
-###Chocheando un poco.. esto me recuerda a una vieja historia..
-Los pioneros de la aviación lo tuvieron difícil. Se lo podríamos preguntar al **pastor** del pueblo Coruña del Conde: **[Diego Marín Aquilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)** que en 1793 inventó un artilugio que volaba de forma controlada... la pena es que la Inquisición, el cura del pueblo junto con los lugareños no tenían ni idea que este español hubiera hecho historia, y que la aviación hubiera adelantado más de 100 años. Pensaban que eso era obra del demonio por lo tanto quemaron todos sus inventos.
+### Chocheando un poco.. esto me recuerda a una vieja historia..
+
+Si los pioneros de la aviación americanos lo tuvieron difícil, más lo tuvieron los españores. Se lo podríamos preguntar al **pastor** del pueblo Coruña del Conde: **[Diego Marín Aquilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)** que en 1793 inventó un artilugio que volaba de forma controlada... la pena es que la Inquisición, el cura del pueblo junto con los lugareños no tenían ni idea que este español hubiera hecho historia, y que la aviación hubiera adelantado más de 100 años. Pensaban que eso era obra del demonio 😈 por lo tanto quemaron todos sus inventos 😱😣 🤦 🤦‍♂️.
+
+![](/assets/diego.jpg)
+
+[De Eulogia Merle - Fundación Española para la Ciencia y la Tecnología, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=37026485)
+
+Aaayyyy 😓 si en España hicieramos caso a los genios que tenemos ...
 
 Esa mala suerte no lo tuvieron **los hermanos Wright** que en 1903 volaron su primer artilugio:
 
 ![](/assets/wright.jpg)
 
-_[Fuente Wikipedia]_
+_[Gregg Bryant saved to Aircraft-Vintage Pinterest](https://www.pinterest.es/pin/39899146670679462/)_
 
-Pero... pusieron **el timón delante**, esto provocaba también una **realimentación positiva** (al levantar el timón, levantaba el morro, y esto provocaba que se levantase aún más, y viceversa a la hora de bajarlo).
-Los hermanos Wright patentaron su invento y gastaron todo su dinero en abogados para defender que nadie copiase su control, pero la verdad es ... que nadie lo hizo: La industria de la aviación detectó el fallo y los elementos de control van por detrás del ala principal, esto crea una realimentación negativa, por lo tanto mayor estabilidad en el vuelo y ... la ruina de los hermanos Wright.
+Pero... pusieron **el timón delante**, no como **[Diego Marín Aquilera](https://es.wikipedia.org/wiki/Diego_Mar%C3%ADn_Aguilera)** que observaba bien las aves. Esto provocaba también una **realimentación positiva** (al levantar el timón, levantaba el morro, y esto provocaba que se levantase aún más, y viceversa a la hora de bajarlo).
+Los hermanos Wright patentaron su invento y gastaron todo su dinero en abogados para defender que nadie copiase su control, pero la verdad es que ... que nadie lo hizo.
 
->¿En el diseño de este Alphabot habrá participado algún descendiente de los hermanos Wright?
+La industria de la aviación detectó el fallo y los elementos de control van por detrás del ala principal, esto crea una realimentación negativa, por lo tanto mayor estabilidad en el vuelo y ... la ruina de los hermanos Wright.
 
+🤔 ¿En el diseño de este Alphabot habrá participado algún descendiente de los hermanos Wright? 🤔
+
+>Mentirijilla: En algunas ocasiones se usa el timón delante: En los cazas para conseguir giros muy rápidos aprovechando esa realimentación positiva como este Saab 39 Gripen:
+
+![](/assets/saab.jpg)
+
+[Editado de De Ernst Vikne - originally posted to Flickr as JAS Gripen, CC BY-SA 2.0](https://commons.wikimedia.org/w/index.php?curid=8602843)
