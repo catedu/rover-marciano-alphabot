@@ -46,7 +46,7 @@
   * [8.1 ¿Qué vamos a hacer?](8-camara/81-que-vamos-a-hacer.md)
   * [8.2 Configuracion](8-camara/82-configuracion.md)
   * [8.3 Motion](8-camara/83-Motion.md)
-* [9 Bajos del coche](9-bajoscoche.md)
+* [9 PROYECTO FINAL](9-bajoscoche.md)
 
 ---
 

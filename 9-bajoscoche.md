@@ -1,22 +1,39 @@
-#Revisión de los bajos del coche
-Para finalizar, vamos a ver un ejemplo de proyecto:
+# PROYECTO FINAL
 
-Hemos visto varios elementos, son las piezas del puzzle de tu creatividad, vamos a ver un ejemplo de juntar varias.
+Para finalizar, vamos a JUNTAR las piezas y hacer nuestro rover un verdadero explorador espacial !! bueno, al menos en lo principal:
 
-##Proyecto
- Este proyecto intenta hacer un robot que nos visualice de forma remota los bajos de un coche, así pues juntamos 3 piezas del puzzle:
+![](/assets/ROVER-ALPHABOT.png)
+
+*[Fotomontaje nasa.gov Credits NASA](https://www.nasa.gov/press-release/la-nasa-ofrecer-una-retransmisi-n-en-espa-ol-para-el-aterrizaje-del-rover-mars)*
+
+Con tu creatividad y con las diferentes piezas que hemos visto puedes hacer otros proyectos.
+
+En este proyecto queremos simular el funcionamiento real de un rover :
+
+* Mover de forma remota el rover controlando paso a paso su posición.
+* Mover el brazo robótico
+* Ver la cámara
+
+Luego juntamos 3 piezas del puzzle:
+
 * [Movimientos paso a paso con las teclas](/35-m2-movimientos-con-paso.md)
 * [Movimiento brazo robótico](/6-servos/72-test-brazo.md)
 * [Cámara](/8-camara/84-ver-la-camara.md)
 
+## Resultado 🛰
+
 {% youtube %}https://www.youtube.com/watch?v=plpvaGh7otw&feature=youtu.be{% endyoutube %}
+
+... vale, vale, no es Marte 🪐, son los bajos de mi coche aquí en la Tierra 🌍.
+
+## ¿Cómo se hace?
 
 ¿Te atreves?
 
 %accordion%Solución%accordion%
 
 * El proyecto es fácil pues es la unión de [Movimientos paso a paso con las teclas](/35-m2-movimientos-con-paso.md) y [Movimiento brazo robótico](/6-servos/72-test-brazo.md)
-* Ver la cámara no implica ningún código Python especial, sólo es un comando Linux si está bien configurado.
+* Ver la cámara no implica ningún código Python especial, si está bien configurado, sólo es abrir una pantalla de tu navegador con la dirección URL adecuada.
 
 Fichero [BajosCoche.py](https://github.com/JavierQuintana/AlphabotPython/)
 
@@ -69,8 +86,7 @@ while True:
     if tecla=='l':
         print ('\nizquierda')
         MOVIMIENTOSPASO.BOTH(velR,numR,velL,-numL)
-        
-    
+
+
 ```
 %/accordion%
-
