@@ -11,7 +11,7 @@
   ],
   "language": "es",
   "variables": {
-    "title": "Alphabot",
+    "title": "Rover Marciano Alphabot",
     "author": "Javier Quintana Peiro",
     "collaborators": [
       {
@@ -34,7 +34,7 @@
     },
     "githubcontributors": {
       "githubOwner": "catedu",
-      "githubRepository": "alphabot"
+      "githubRepository": "rover-marciano-alphabot"
     },
     "ga": {
       "token": "UA-135691041-2"
