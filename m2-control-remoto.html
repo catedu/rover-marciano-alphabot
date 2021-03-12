@@ -520,7 +520,20 @@
             <ul class="articles">
                 
     
-        <li class="chapter " data-level="1.7.1" data-path="5-control-remoto/51-como-funciona.html">
+        <li class="chapter " data-level="1.7.1" data-path="5-0-comunicacionrover.html">
+            
+                <a href="5-0-comunicacionrover.html">
+            
+                    
+                    5.0 Comunicación con los rovers
+            
+                </a>
+            
+
+            
+        </li>
+    
+        <li class="chapter " data-level="1.7.2" data-path="5-control-remoto/51-como-funciona.html">
             
                 <a href="5-control-remoto/51-como-funciona.html">
             
@@ -533,7 +546,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7.2" data-path="52-libreria-necpy.html">
+        <li class="chapter " data-level="1.7.3" data-path="52-libreria-necpy.html">
             
                 <a href="52-libreria-necpy.html">
             
@@ -546,7 +559,7 @@
             
         </li>
     
-        <li class="chapter " data-level="1.7.3" data-path="53-m1-test-control-remoto-ir.html">
+        <li class="chapter " data-level="1.7.4" data-path="53-m1-test-control-remoto-ir.html">
             
                 <a href="53-m1-test-control-remoto-ir.html">
             
@@ -559,7 +572,7 @@
             
         </li>
     
-        <li class="chapter active" data-level="1.7.4" data-path="m2-control-remoto.html">
+        <li class="chapter active" data-level="1.7.5" data-path="m2-control-remoto.html">
             
                 <a href="m2-control-remoto.html">
             
@@ -863,19 +876,7 @@
                                 <section class="normal markdown-section">
                                 
                                 <h1 id="control-remoto">CONTROL REMOTO</h1>
-<p>Vamos a simular la comunicaci&#xF3;n entre Tierra y el rover.</p>
-<h2 id="&#xBF;c&#xF3;mo-son-las-comunicaciones-entre-un-rover-y-la-tierra">&#xBF;C&#xF3;mo son las comunicaciones entre un rover y la Tierra?</h2>
-<p>Los rovers env&#xED;an la se&#xF1;al a alguno de los  sat&#xE9;lites artificiales que giran alrededor del sitio donde est&#xE1;n, por ejemplo en Marte hay 5 sat&#xE9;lites, y estos sat&#xE9;lites env&#xED;an la se&#xF1;al a la Tierra.</p>
-<p><img src="assets/comunicacion1.jpg" alt=""></p>
-<p>Iconos de <a href="https://www.flaticon.es/" target="_blank">Flaticon</a></p>
-<p>Hay rovers que adem&#xE1;s de usar la comunicaci&#xF3;n anterior, tienen dos antenas, una que apunta a la Tierra y otra que apunta a todas las direcciones. Las dos env&#xED;an la informaci&#xF3;n dir&#xE9;ctamente a la Tierra en una banda 7-8 GHz de la &quot;Red del Espacio profundo&quot; que lo forman 3 antenas que est&#xE1;n repartidas en la Tierra para que siempre sean visibles desde el rover.</p>
-<p><img src="assets/comunicacion2.jpg" alt=""></p>
-<p>Iconos de <a href="https://www.flaticon.es/" target="_blank">Flaticon</a></p>
-<p>Una antena est&#xE1; en California, otra est&#xE1; en Camberra y otra &#xA1;&#xA1;Est&#xE1; en Madrid!! concretamente en Robledo de Chavela de 70m de di&#xE1;metro, yo tuve la suerte de visitarla cuando era estudiante !</p>
-<p><img src="assets/robledo.jpg" alt=""></p>
-<p><a href="https://commons.wikimedia.org/w/index.php?curid=52005724" target="_blank">De Malopez 21 - Trabajo propio, CC BY-SA 4.0</a></p>
-<h1 id="vamos-a-ello">VAMOS A ELLO</h1>
-<p>&#xBF;Qu&#xE9; esperas? te lo pide el cuerpo !!! vamos a hacer un control remoto del robot !!</p>
+<p>Vamos a simular la comunicaci&#xF3;n entre Tierra y el rover. Vamos a hacer un control remoto del robot !! con la ventaja de que no vas a tener el retardo que sufren los de la NASA.</p>
 <p>Vamos a definir las siguientes teclas</p>
 <p>gobernado por el teclado <em>num&#xE9;rico</em>:</p>
 <ul>
@@ -975,7 +976,7 @@ while key!=28:
     <script>
         var gitbook = gitbook || [];
         gitbook.push(function() {
-            gitbook.page.hasChanged({"page":{"title":"5.4 Control remoto","level":"1.7.4","depth":2,"next":{"title":"6 Módulo siguelíneas","level":"1.8","depth":1,"path":"6-modulo-siguelineas.md","ref":"6-modulo-siguelineas.md","articles":[{"title":"6.2 TLC1543","level":"1.8.1","depth":2,"path":"6-modulo-siguelineas/62-tlc1543.md","ref":"6-modulo-siguelineas/62-tlc1543.md","articles":[]},{"title":"6.3 TLC1543.py y VARIABLES.py","level":"1.8.2","depth":2,"path":"6-modulo-siguelineas/tlc1543py.md","ref":"6-modulo-siguelineas/tlc1543py.md","articles":[]},{"title":"6.4 Test-Sigue-lineas","level":"1.8.3","depth":2,"path":"6-modulo-siguelineas/64-m1-test-sigue-lineas.md","ref":"6-modulo-siguelineas/64-m1-test-sigue-lineas.md","articles":[]},{"title":"6.5 Siguelineas","level":"1.8.4","depth":2,"path":"6-modulo-siguelineas/65-m2-siguelineas.md","ref":"6-modulo-siguelineas/65-m2-siguelineas.md","articles":[]}]},"previous":{"title":"5.3 Test Control Remoto IR","level":"1.7.3","depth":2,"path":"53-m1-test-control-remoto-ir.md","ref":"53-m1-test-control-remoto-ir.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","image-captions","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"alphabot"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/alphabot/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Alphabot","author":"Javier Quintana Peiro","collaborators":[{"name":".","edited":""}],"_pictures":[{"backlink":"muro.html#fig2.2.1","level":"2.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"2.2.1"}]},"language":"es","gitbook":"*"},"file":{"path":"m2-control-remoto.md","mtime":"2021-03-12T09:37:35.423Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-03-12T09:38:34.300Z"},"basePath":".","book":{"language":""}});
+            gitbook.page.hasChanged({"page":{"title":"5.4 Control remoto","level":"1.7.5","depth":2,"next":{"title":"6 Módulo siguelíneas","level":"1.8","depth":1,"path":"6-modulo-siguelineas.md","ref":"6-modulo-siguelineas.md","articles":[{"title":"6.2 TLC1543","level":"1.8.1","depth":2,"path":"6-modulo-siguelineas/62-tlc1543.md","ref":"6-modulo-siguelineas/62-tlc1543.md","articles":[]},{"title":"6.3 TLC1543.py y VARIABLES.py","level":"1.8.2","depth":2,"path":"6-modulo-siguelineas/tlc1543py.md","ref":"6-modulo-siguelineas/tlc1543py.md","articles":[]},{"title":"6.4 Test-Sigue-lineas","level":"1.8.3","depth":2,"path":"6-modulo-siguelineas/64-m1-test-sigue-lineas.md","ref":"6-modulo-siguelineas/64-m1-test-sigue-lineas.md","articles":[]},{"title":"6.5 Siguelineas","level":"1.8.4","depth":2,"path":"6-modulo-siguelineas/65-m2-siguelineas.md","ref":"6-modulo-siguelineas/65-m2-siguelineas.md","articles":[]}]},"previous":{"title":"5.3 Test Control Remoto IR","level":"1.7.4","depth":2,"path":"53-m1-test-control-remoto-ir.md","ref":"53-m1-test-control-remoto-ir.md","articles":[]},"dir":"ltr"},"config":{"plugins":["youtube","accordion","image-captions","styled-blockquotes","localized-footer","edit-link","githubcontributors","ga"],"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"pluginsConfig":{"youtube":{},"accordion":{},"search":{},"styled-blockquotes":{},"localized-footer":{"filename":"./FOOTER.md","hline":true},"lunr":{"maxIndexSize":1000000,"ignoreSpecialCharacters":false},"fontsettings":{"theme":"white","family":"sans","size":2},"highlight":{},"ga":{"configuration":"auto","token":"UA-135691041-2"},"githubcontributors":{"contributorWidth":"300px","githubOwner":"catedu","githubRepository":"alphabot"},"sharing":{"facebook":true,"twitter":true,"google":false,"weibo":false,"instapaper":false,"vk":false,"all":["facebook","google","twitter","weibo","instapaper"]},"edit-link":{"label":"Edita esta página","base":"https://github.com/catedu/alphabot/edit/master"},"theme-default":{"styles":{"website":"styles/website.css","pdf":"styles/pdf.css","epub":"styles/epub.css","mobi":"styles/mobi.css","ebook":"styles/ebook.css","print":"styles/print.css"},"showLevel":false},"image-captions":{"caption":"Imagen - _CAPTION_","variable_name":"_pictures"}},"theme":"default","pdf":{"pageNumbers":true,"fontSize":12,"fontFamily":"Arial","paperSize":"a4","chapterMark":"pagebreak","pageBreaksBefore":"/","margin":{"right":62,"left":62,"top":56,"bottom":56}},"structure":{"langs":"LANGS.md","readme":"README.md","glossary":"GLOSSARY.md","summary":"SUMMARY.md"},"variables":{"title":"Alphabot","author":"Javier Quintana Peiro","collaborators":[{"name":".","edited":""}],"_pictures":[{"backlink":"muro.html#fig2.2.1","level":"2.2","list_caption":"Figure: Hecho con Padlet","alt":"Hecho con Padlet","nro":1,"url":"https://resources.padletcdn.com/assets/made_with_padlet.png","index":1,"caption_template":"Imagen - _CAPTION_","label":"Hecho con Padlet","attributes":{},"skip":false,"key":"2.2.1"}]},"language":"es","gitbook":"*"},"file":{"path":"m2-control-remoto.md","mtime":"2021-03-12T11:06:59.933Z","type":"markdown"},"gitbook":{"version":"3.2.3","time":"2021-03-12T11:07:54.517Z"},"basePath":".","book":{"language":""}});
         });
     </script>
 </div>
