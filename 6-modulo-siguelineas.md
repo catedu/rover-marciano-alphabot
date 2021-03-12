@@ -1,5 +1,7 @@
 # Módulo siguelíneas
 
+## ORBITAS
+
 Esta claro que un rover de verdad no va a tener que seguir una línea pintada en el suelo. Pero, las sondas que lo transportan a los astros, sí que tiene que seguir  unas órbitas o líneas imaginarias. Nosotros lo vamos a simular con una línea pintada en el suelo.
 
 La programación básica es la misma siempre: si te desvías, corrige.
@@ -7,6 +9,12 @@ La programación básica es la misma siempre: si te desvías, corrige.
 ![](/assets/orbita.gif)
 
 [Philae rover's orbit in comet 67P](https://www.popularmechanics.com/space/g2874/nasa-giphy-page/)
+
+Pero no es fácil elegir la órbita :
+
+{% youtube %}https://www.youtube.com/watch?v=gYJsMBabjVY&list=PL9TFrgFq7557nWqmfuVngU22OhTpUE9gg&index=2{% endyoutube %}
+
+## NUESTRO ROBOT SIGUELINEAS
 
 Nuestro robot tiene un módulo con 5 sensores al color :
 

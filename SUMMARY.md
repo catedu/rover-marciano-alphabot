@@ -30,6 +30,7 @@
   * [4.4 Evita obstáculos](4-sensor-obstaculos-ir/43-roomba.md)
   * [4.5 Posibilidad ultrasonidos](45-posibilidad-ultrasonidos.md)
 * [5 Control remoto](5-control-remoto.md)
+  * [5.0 Comunicación con los rovers](5-0-comunicacionrover.md)
   * [5.1 NEC](5-control-remoto/51-como-funciona.md)
   * [5.2 VARIABLES.py y NEC.py](52-libreria-necpy.md)
   * [5.3 Test Control Remoto IR](53-m1-test-control-remoto-ir.md)
