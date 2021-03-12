@@ -8,7 +8,7 @@ Los rovers marcianos envían la señal a alguno de los  satélites artificiales 
 
 Iconos de [Flaticon](https://www.flaticon.es/)
 
-Con los rovers lunares no se utilizaron orbitadores, a pesar de que [existieron. pero se diseñaron para tomar fotos](https://es.wikipedia.org/wiki/Programa_Lunar_Orbiter). Los **Lunojods** se comunicaban diréctamente, y con los **Yutus** como estaban en la cara oculta de la luna, se utilizó [Queqiao](https://es.wikipedia.org/wiki/Queqiao), un satélite que está el el Punto de Lagrance, es decir, una órbita geoestacionaria común de la Tierra y de la Luna. 
+Con los rovers lunares no se utilizaron orbitadores, a pesar de que [existieron. pero se diseñaron para tomar fotos](https://es.wikipedia.org/wiki/Programa_Lunar_Orbiter). Los **Lunojods** se comunicaban diréctamente, y con los **Yutus** como estaban en la cara oculta de la luna, se utilizó [Queqiao](https://es.wikipedia.org/wiki/Queqiao), un satélite que está el el Punto de Lagrance, es decir, una órbita geoestacionaria común de la Tierra y de la Luna.
 
 ![](/assets/quequiao.png)
 
@@ -34,4 +34,4 @@ Lo forman 3 antenas que están repartidas en la Tierra, más o menos 120º para 
 
 ## Un vídeo explicativo de las comunicaciones con Perserverance
 
-{% youtube %https://www.youtube.com/watch?v=2t7p08hcQzs&list=PL9TFrgFq7557nWqmfuVngU22OhTpUE9gg&index=12{% endyoutube %}
+{% youtube %}https://www.youtube.com/watch?v=2t7p08hcQzs&list=PL9TFrgFq7557nWqmfuVngU22OhTpUE9gg&index=12{% endyoutube %}
