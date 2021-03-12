@@ -49,6 +49,7 @@ Por lo tanto, viendo la teoría, una posible función en código Python para uti
 * La distancia será velocidad por tiempo o sea: la diferencia el tiempo del pulso ECHO multiplicado por la velocidad del sonido y dividido por 2 pues es el recorrido del sonido ida y vuelta.
 
 ```cpp+lineNumbers:true
+
 TRIG = 17
 ECHO = 5
 
