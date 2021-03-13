@@ -16,7 +16,7 @@ Con los rovers lunares no se utilizaron orbitadores, a pesar de que [existieron.
 
 
 
-## Otro camino: Diréctamente.
+## Otro camino: Directamente.
 
 Hay rovers que además de usar la comunicación anterior, tienen dos antenas, una que apunta a la Tierra de forma automática (por cierto [española](https://tinyurl.com/antenarover) ) y otra que apunta a todas las direcciones. Las dos envían la información diréctamente a la Tierra en una banda 7-8 GHz de la "Red del Espacio profundo".
 
