@@ -16,9 +16,9 @@ En este proyecto queremos simular el funcionamiento real de un rover :
 
 Luego juntamos 3 piezas del puzzle:
 
-* [Movimientos paso a paso con las teclas](/35-m2-movimientos-con-paso.md)
-* [Movimiento brazo robótico](/6-servos/72-test-brazo.md)
-* [Cámara](/8-camara/84-ver-la-camara.md)
+* [Movimientos paso a paso con las teclas](https://catedu.github.io/rover-marciano-alphabot/35-m2-movimientos-con-paso.html)
+* [Movimiento brazo robótico](https://catedu.github.io/rover-marciano-alphabot/6-servos/72-test-brazo.html)
+* [Cámara](https://catedu.github.io/rover-marciano-alphabot/8-camara.html)
 
 ## Resultado 🛰
 
