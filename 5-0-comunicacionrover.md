@@ -26,11 +26,10 @@ Iconos de [Flaticon](https://www.flaticon.es/)
 
 ### La Red del Espacio profundo
 
-Lo forman 3 antenas que están repartidas en la Tierra, más o menos 120º para que siempre sean visibles desde el rover, sondas, etc... (ya te puedes imaginar que si fuera una antena, la rotación de la Tierra lo ocultaría) Una antena está en California, otra está en Camberra y otra ¡¡Está en Madrid!! concretamente en Robledo de Chavela de 70m de diámetro, yo tuve la suerte de visitarla cuando era estudiante !
+Lo forman 3 antenas que están repartidas en la Tierra, más o menos 120º para que siempre sean visibles desde el rover, sondas, etc... (ya te puedes imaginar que si fuera una antena, la rotación de la Tierra lo ocultaría) Una antena está en California, otra está en Camberra y otra ¡¡Está en Madrid!! concretamente en Robledo de Chavela de 70m de diámetro. Yo tuve la suerte de estar allí cuando era estudiante y tenía pelo 😢
 
-![](/assets/robledo.jpg)
+![](/assets/yo.jpg)
 
-[De Malopez 21 - Trabajo propio, CC BY-SA 4.0](https://commons.wikimedia.org/w/index.php?curid=52005724)
 
 ## Un vídeo explicativo de las comunicaciones con Perserverance
 
