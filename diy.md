@@ -176,11 +176,13 @@ Y lo colocamos con la otra pieza:
 
 ![](/assets/PICT0062.JPG)
 
-**CHAPUZA** ahora vemos que la pieza de brazo del servo no se ajusta al hueco
+## CHAPUZA 1
+
+Ahora vemos que la pieza de brazo del servo no se ajusta al hueco
 
 ![](/assets/PICT0065.JPG)
 
-La palabra "chapuza" es típico española, y también estos cuchillos albaceteños:
+La palabra "chapuza" es típica española, y también estos cuchillos albaceteños:
 
 ![](/assets/PICT0067.JPG)
 
@@ -192,7 +194,8 @@ El tornillo es uno en punta con arandela soldada:
 
 ![](/assets/PICT0064.JPG)
 
-**CHAPUZA2** la parte que tiene que unir el servo de abajo con la plataforma de la placa tiene que ser con un brazo de servo QUE NO ENTRA:
+## CHAPUZA2
+La parte que tiene que unir el servo de abajo con la plataforma de la placa tiene que ser con un brazo de servo QUE NO ENTRA:
 
 ![](/assets/PICT0066.JPG)
 
@@ -226,7 +229,9 @@ Ponemos el cable con el lado azul mirando hacia la cámara como en la foto y vol
 
  Truco: Al encender el robot, tiene que encenderse un led rojo de la cámara. Si no es así es que has conectado la cinta mal.
 
-**CHAPUZA3** Mete la cámara a presión y verás: ¡¡ Es más grande la cámara que el soporte !!. Queda torcido, no es muy estético pero está bien sujeto:
+## CHAPUZA3
+
+Mete la cámara a presión y verás: ¡¡ Es más grande la cámara que el soporte !!. Queda torcido, no es muy estético pero está bien sujeto:
 
 ![](/assets/PICT0075.JPG)
 
@@ -242,11 +247,13 @@ Y bien apretado pero sin reventar el servo, ojo:
 
 ![](/assets/PICT0079.JPG)
 
-Ahora utilizaremos los tornillos más largos con tuerca que lo utilizaremos de arandela de plástico y tuerca
+Ahora utilizaremos los tornillos más largos con tuerca que lo utilizaremos de arandelas o tuercas de plástico y tuerca normal :
 
 ![](/assets/PICT0080.JPG)
 
-**CHAPUZA4**: ¿Por qué utilizar la arandela de plástico? porque si no se utiliza, las tuercas hacen cortocircuitos con las soldaduras de la placa, luego necesitamos levantar un poco la plataforma del brazo robótico de la placa:
+## CHAPUZA4
+
+¿Por qué utilizar la arandela de plástico? porque si no se utiliza, las tuercas hacen cortocircuitos con las soldaduras de la placa, luego necesitamos levantar un poco la plataforma del brazo robótico de la placa:
 
 ![](/assets/PICT0081.JPG)
 
@@ -268,7 +275,7 @@ Tiene que quedar que vean bien los agujeros de las ruedas:
 
 ![](/assets/PICT0032.JPG)
 
-###Ruedas
+### Ruedas
 
 Ponemos la rueda loca en la parte trasera:
 
