@@ -27,7 +27,7 @@ Y por supuesto levantar el robot para que no salga disparado conectado con el ca
 
 ![](/assets/2018-07-01 17_37_11-PhotoFiltre.jpg)
 
-## Tercera desventaja: FALOS EN EL DISEÑO:
+## Tercera desventaja: FALLOS EN EL DISEÑO:
 
 * Del brazo de robot, el pie no se ajusta bien a la placa y tampoco a la cámara web (en las fotos las flechas amarillas) Ver Chapuzas nº 1, 2 y 3 de [DIY](/diy.md).
 
