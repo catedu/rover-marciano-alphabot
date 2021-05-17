@@ -77,9 +77,9 @@ En el 2004 Nasa lanza este rover, preparado para perforar rocas y [encontró sal
 
 [By NASA](http://marsrovers.jpl.nasa.gov/gallery/press/spirit/20050527a.htmlTransferred) from English Wikipedia, [Public Domain](https://commons.wikimedia.org/w/index.php?curid=255307)
 
-#### La actualidad: Perserverance
+### Perserverance
 
-Esta misión está actualmente en curso (6/3/21) su aterizaje fué un éxito :
+Esta misión está actualmente en curso, su aterizaje (6/3/21) fué un éxito :
 
  {% youtube %}https://www.youtube.com/watch?v=rzmd7RouGrM {% endyoutube %}
 
@@ -87,7 +87,11 @@ Esta misión está actualmente en curso (6/3/21) su aterizaje fué un éxito :
 
  {% youtube %}https://www.youtube.com/watch?v=ZfYzEsxeWvc {% endyoutube %}
 
- ## El futuro: exploración de astros.
+ ### Tianwen-1
+
+ China, cómo no, quiere demostrar que tiene tecnología para aterrizar un rover en marte, ¿otra carrera 🤔? y en mayo del 2021 lo consigue. Este rover buscará vida anterior en el planeta marciano ([+info](https://es.wikipedia.org/wiki/Tianwen-1))
+
+ ## Otros astros.
 
 En 2014 ESA manda una sonda espacial [Rosseta ](https://es.wikipedia.org/wiki/Rosetta_(sonda_espacial) ) al cometa [67P](https://es.wikipedia.org/wiki/67P/Churyumov-Gerasimenko), orbita alrededor del cometa y desprende la sonda Philae que aterriza en el cometa. Sus resultados desmontaron algunas teorías ampliamente aceptadas, como la creencia de que el agua de la Tierra viene de los cometas, **técnicamente no fue un rover pues no se movía por la superficie**, no me extraña, si parece el Everest :
 
