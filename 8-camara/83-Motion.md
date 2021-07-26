@@ -9,14 +9,10 @@ Vamos a ver lo que sale por la cámara de forma remota :
 
 Esta librería open-source muy utilizado en sistemas de alarma con la Raspberry
 
-(🤔🤔🤔🤔 hacer un sistema de videovigilancia📹 de mi casa 🏠a distancia 📡 y monitorizar 📺 por muy bajo coste... 🤔 )
-
-Se pueden encontrar proyectos interesantes como :
-
-* [Que grabe en un vídeo cuando detecta un movimiento](https://projects.raspberrypi.org/en/projects/parent-detector)
-* [Que nos envíe un email con una foto cuando detecta uno movimiento](https://www.instructables.com/Raspberry-Pi-Motion-Detector-and-Alert-System/)
+(🤔🤔🤔🤔 hacer un sistema de videovigilancia📹 de mi casa 🏠a distancia 📡 y monitorizar 📺 por muy bajo coste... 🤔 que envíe una foto a mi email cuando detecte un movimiento) puedes verlo aquí cómo se hace: https://sites.google.com/view/javierquintana/raspberry/alarma?authuser=0
 
 ![](/assets/parent.png)
+
 [Parent detector](https://projects.raspberrypi.org/en/projects/parent-detector)
 
 Pero nosotros **NO** nos interesa que detecte movimiento, sino que simplemente haga streaming.
