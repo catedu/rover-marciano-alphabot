@@ -11,6 +11,11 @@ No son tan peligrosa como las pilas de Plutonio-238, pero tienen sus peligros. S
   <img src="https://docs.google.com/drawings/d/e/2PACX-1vRohvDwF0pU1U4lUsz1XwIMpKI-w5jyAZIqXnVtFmzO-Cce0hJ2K-ZBXyyHd9aowTVnxidDww4IgeQv/pub?w=996&amp;h=849">
 
   * Algunas están protegidas, pero lo normal es que no. [Aquí para ver si la pila es protegida o no](https://www.bateriasdelitio.net/?p=54).
+
+>**danger**
+>##Las del AlphaBot NO ESTAN PROTEGIDAS
+> ¿Por qué? porque las protegidas miden 67mm y no caben.
+  
  * _Curiosamente estas baterías forman parte de las baterías de los portátiles, pero manipularlas tiene riesgos [ver](https://bricolabs.cc/wiki/guias/reciclando_baterias_de_portatil_recuperando_baterias_18650)_
 
 ![](/assets/pila.png)
