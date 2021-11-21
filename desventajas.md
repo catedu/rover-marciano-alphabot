@@ -3,22 +3,7 @@ Es importante que las conozcas:
 
 ## Primera desventaja: CUIDADO CON LAS PILAS 18650
 
-No son tan peligrosa como las pilas de Plutonio-238, pero tienen sus peligros. Se pueden encontrar en tiendas online con cargador incluido. (ojo,hay dos versiones, elegir la de 65mm) pero hay que tener precauciones.
-
- * No te fies de las muy baratas, pues hay algunas que **[son falsas.](http://bateriasdelitio.net/?p=130)**.
-  * **OJO ESTAS PILAS SON PELIGROSAS SI SE CORTOCIRCUITAN O NO SE RESPETA LA POLARIDAD, PUEDEN LLEGAR INCLUSO A EXPLOTAR**. Y para complicarlo, no se ve bien (los símbolos + y - de las 18650 soy muy pequeños) y en Alphabot hay una contradicción, los símbolos de fuera en la placa no coinciden con los símbolos de dentro grabados en el portapilas ¿cuales son los verdaderos?: Los de fuera. Para que quede claro aquí tienes un dibujo:
-
-  <img src="https://docs.google.com/drawings/d/e/2PACX-1vRohvDwF0pU1U4lUsz1XwIMpKI-w5jyAZIqXnVtFmzO-Cce0hJ2K-ZBXyyHd9aowTVnxidDww4IgeQv/pub?w=996&amp;h=849">
-
-  * Algunas están protegidas, pero lo normal es que no. [Aquí para ver si la pila es protegida o no](https://www.bateriasdelitio.net/?p=54).
-
->**danger**
->##Las del AlphaBot NO ESTAN PROTEGIDAS
-> ¿Por qué? porque las protegidas miden 67mm y no caben.
-  
- * _Curiosamente estas baterías forman parte de las baterías de los portátiles, pero manipularlas tiene riesgos [ver](https://bricolabs.cc/wiki/guias/reciclando_baterias_de_portatil_recuperando_baterias_18650)_
-
-![](/assets/pila.png)
+No son tan peligrosa como las pilas de Plutonio-238, pero tienen sus peligros. Le dedicamos una página especial
 
 ## Segunda desventaja: No se puede utilizar la fuente de alimentación de la Raspberry con el chasis de abajo montado
 

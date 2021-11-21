@@ -5,6 +5,7 @@
 * [1 ALPHABOT](chapter1.md)
   * [1.1 Ventajas](ventajas.md)
   * [1.2 Desventajas](desventajas.md)
+    * [18650](/18650.md)
   * [1.3 DIY](diy.md)
   * [1.4 Configuración](13-comunicaciones.md)
   * [1.5 Vaya programación cutre!](16-vaya-programacion-cutre.md)
